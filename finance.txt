@@ -1,3 +1,5 @@
 bse
 
 mutual funds
+capital
+value
